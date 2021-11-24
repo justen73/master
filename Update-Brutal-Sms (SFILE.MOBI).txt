@@ -1,0 +1,14 @@
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install python git bash
+$ git clone https://github.com/Sxp-ID/Brutal-Sms
+$ cd Brutal-Sms
+$ git pull
+$ pip install -r requirements.txt
+$ bash install.sh
+
+Thanks for watching..
+Jangan lupa untuk subrek channel yt admin FREE TUTORIAL
+dan aktifkan notifikasi loncengnya biar tau kalo
+admin upload video baru !
